@@ -1,6 +1,6 @@
 
 {
-    "name": "PRINCE BOT MD",
+    "name": "ANZAD MD",
     "version": "2.1.0",
     "description": "Advanced WhatsApp",
     "main": "LazackEngage.js",
@@ -29,9 +29,9 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/PRINCETECH20/Prince-bot-md-Device",
+    "homepage": "https://github.com/Anzad378/ANZADI-MD/-Device",
     "author": {
-        "name": "PRINCE"
+        "name": "ANZAD"
     },
     "repository": {
         "type": "git",
