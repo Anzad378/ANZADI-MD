@@ -18,7 +18,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   let readMore = more.repeat(900)
 
   let menu = `
-╭━━━⟡ PRINCE BOT MD  ⟡━━━╮
+╭━━━⟡ ANZADI MD  ⟡━━━╮
 ┃✨ Hello, *${name}*!
 ┃📆 Date: *${date}*
 ┃⏰ Time: *${time}*
