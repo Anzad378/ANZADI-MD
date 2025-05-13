@@ -41,11 +41,11 @@ let str = `
 ∆───『*ANZADI MD*』───∆ 
 > Library :ANZADI INFO TECH
 > Version : 2.9.0
-> source : https://github.com/PRINCETECH20/Prince-bot-md
-> owner : PRINCE TECH
-  *⚡ PRINCE BOT MD IS BOT MADE UP BY PRINCE*
+> source : https://github.com/Anzad378/ANZADI-MD
+> owner : ANZADI TECH
+  *⚡ ANZADI  MD IS BOT MADE UP BY PRINCE*
   *Thank you for your cooperation.* 
- ∆───『 *ENJOY MY BOT*』──∆
+ ∆───『 *ENJOY TO USE BOT*』──∆
 ${readMore}
 『 *COMMAND MENU* 』 
 *use this command by start with prefix*
