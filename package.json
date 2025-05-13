@@ -35,10 +35,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/PRINCETECH20/Prince-bot-md-Device.git"
+        "url": "git+https://github.com/Anzad378/ANZADI-MD-Device.git"
     },
     "bugs": {
-        "url": "https://github.com/PRINCETECH20/Prince-bot-md-Device/issues"
+        "url": "https://github.com/Anzad378/ANZADI-MD-Device/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
