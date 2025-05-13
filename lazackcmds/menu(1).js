@@ -38,8 +38,8 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╔═══════════════════════════╗
-∆───『*PRINCE BOT MD*』───∆ 
-> Library :PRINCE INFO TECH
+∆───『*ANZADI MD*』───∆ 
+> Library :ANZADI INFO TECH
 > Version : 2.9.0
 > source : https://github.com/PRINCETECH20/Prince-bot-md
 > owner : PRINCE TECH
@@ -158,7 +158,7 @@ ${readMore}
             forwardingScore: 999,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363419996770740@newsletter', // Replace with actual channel JID
-              newsletterName: 'PRINCE', // Replace with actual channel name
+              newsletterName: 'ANZADI', // Replace with actual channel name
               serverMessageId: -1,
             },
           },
