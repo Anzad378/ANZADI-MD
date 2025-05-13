@@ -2,14 +2,14 @@ let handler = async (m, { conn }) => {
     let vcard = `
   BEGIN:VCARD
   VERSION:3.0
-  N:;PRINCE;;;
-  FN:PRINCE 
-  ORG:PRINCE
+  N:;ANZADI;;;
+  FN:ANZADI 
+  ORG:ANZADI
   TITLE:
   TEL;waid=0654003502
-  X-ABLabel:PRINCE
+  X-ABLabel:ANZADI
   X-WA-BIZ-DESCRIPTION:
-  X-WA-BIZ-NAME:PRINCE
+  X-WA-BIZ-NAME:ANZADI
   END:VCARD
     `.trim();
   
@@ -17,7 +17,7 @@ let handler = async (m, { conn }) => {
       m.chat,
       {
         contacts: {
-          displayName: "PRINCE-TECH",
+          displayName: "ANZADI-TECH",
           contacts: [{ vcard }],
         },
       },
@@ -27,7 +27,7 @@ let handler = async (m, { conn }) => {
   
   handler.help = ["owner"];
   handler.tags = ["main"];
-  handler.command = ["owner", "creator",];
+  handler.command = ["owner", "0654003502",];
   
   export default handler;
   
