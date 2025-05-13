@@ -1,10 +1,10 @@
 {
-  "name": "PRINCE BOT MD",
+  "name": "ANZADI MD",
   "description": " WHASSAP BOT MADE BY PRINCE TECH.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/PRINCETECH20/Prince-bot-md-Device",
+  "repository": "https://github.com/Anzad378/ANZADI-MD",
   "stack": "container",
   "env": {
     "OWNERS": {
@@ -15,7 +15,7 @@
     "BOTNAME": {
       "description": "Give your bot a name",
       "required": true,
-      "value": "PRINCE-𝐃𝐄𝐕𝐈𝐂𝐄"
+      "value": "ANZADI-𝐃𝐄𝐕𝐈𝐂𝐄"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -42,7 +42,7 @@
       "required": true,
       "value": ""
     },
-     "HAPP": {
+     "APP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
       "value": ""
@@ -57,7 +57,7 @@
       "required": false,
       "value": ""
     },
-    "antidelete": {
+    "ANTIDELETE": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
       "value": "false"
