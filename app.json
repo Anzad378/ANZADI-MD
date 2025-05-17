@@ -1,6 +1,6 @@
 {
   "name": "ANZADI MD",
-  "description": " WHASSAP BOT MADE BY PRINCE TECH.",
+  "description": " WHASSAP BOT MADE BY ANZADI TECH.",
   "keywords": [
     "whatsapp bot"
   ],
@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255654003502"
+      "value": "255654667145"
     },
     "BOTNAME": {
       "description": "Give your bot a name",
